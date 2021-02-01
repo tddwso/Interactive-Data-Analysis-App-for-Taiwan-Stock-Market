@@ -9,7 +9,12 @@
 ## 功能介紹:
 個股股價查詢並下載。
 
-![image](https://github.com/tddwso/Convert-any-image-to-a-pencil-sketch-by-Streamlit-App/blob/main/%E7%B4%A0%E6%8F%8F%E8%BD%89%E6%8F%9B%E5%9C%96.PNG)
+![image](https://github.com/tddwso/Interactive-Data-Analysis-App-for-Taiwan-Stock-Market/blob/main/%E8%82%A1%E5%83%B9%E6%9F%A5%E8%A9%A2.PNG)
+
+選取顯示資料圖表。
+
+![image](https://github.com/tddwso/Interactive-Data-Analysis-App-for-Taiwan-Stock-Market/blob/main/%E8%82%A1%E5%83%B9%E6%9F%A5%E8%A9%A2.PNG)
+
 
 ## 使用Streamlit App展示成果
 
