@@ -39,5 +39,5 @@ Streamlit 是一個開源Python函式庫，可以快速製作Data App。
 
 7.實作影片(以下圖片為Youtube影片連結)
 
-[![IMAGE ALT TEXT HERE](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/streamlit.png)](https://youtu.be/gaUO8ptH68U)
+[![IMAGE ALT TEXT HERE](https://github.com/tddwso/Interactive-Data-Analysis-App-for-Taiwan-Stock-Market/blob/main/stock%20logo.PNG)](https://youtu.be/gaUO8ptH68U)
 
