@@ -4,7 +4,7 @@
 ## 背景介紹:
 以Python中SQL(應用程式與資料庫之間溝通的語言)與Yahoo股市連接，並以Streamlit App做成具有互動式的應用APP。
 
-![image](https://github.com/tddwso/Convert-any-image-to-a-pencil-sketch-by-Streamlit-App/blob/main/image1.png)
+![image](https://github.com/tddwso/Interactive-Data-Analysis-App-for-Taiwan-Stock-Market/blob/main/stock%20logo.PNG)
 
 ## 預計完成目標:
 利用sketchify模型完成影像轉換成素描圖片，並放在Stramlit App上。
