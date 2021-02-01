@@ -13,28 +13,28 @@
 Streamlit 是一個開源Python函式庫，可以快速製作Data App。
 
 ## 功能介紹:
-個股股價查詢並下載。
+1.個股股價查詢並下載。
 
 ![image](https://github.com/tddwso/Interactive-Data-Analysis-App-for-Taiwan-Stock-Market/blob/main/%E8%82%A1%E5%83%B9%E6%9F%A5%E8%A9%A2.PNG)
 
-選取顯示資料圖表。
+2.選取顯示資料圖表。
 
 ![image](https://github.com/tddwso/Interactive-Data-Analysis-App-for-Taiwan-Stock-Market/blob/main/%E9%81%B8%E5%8F%96.PNG)
 
-多項個股股價比較圖。
+3.多項個股股價比較圖。
 
 ![image](https://github.com/tddwso/Interactive-Data-Analysis-App-for-Taiwan-Stock-Market/blob/main/%E5%A4%9A%E9%A0%85.PNG)
 
-個股移動平均線。
+4.個股移動平均線。
 
 ![image](https://github.com/tddwso/Interactive-Data-Analysis-App-for-Taiwan-Stock-Market/blob/main/%E7%A7%BB%E5%8B%95%E5%B9%B3%E5%9D%87%E7%B7%9A.PNG)
 
-股價漲跌圖。
+5.股價漲跌圖。
 
 ![image](https://github.com/tddwso/Interactive-Data-Analysis-App-for-Taiwan-Stock-Market/blob/main/%E6%BC%B2%E8%B7%8C.PNG)
 
-多項個股股價買賣推薦。
+6.多項個股股價買賣推薦。
 
-![image](https://github.com/tddwso/Interactive-Data-Analysis-App-for-Taiwan-Stock-Market/blob/main/%E7%A7%BB%E5%8B%95%E5%B9%B3%E5%9D%87%E7%B7%9A.PNG)
+![image](https://github.com/tddwso/Interactive-Data-Analysis-App-for-Taiwan-Stock-Market/blob/main/%E6%8E%A8%E8%96%A6.PNG)
 
 
