@@ -6,14 +6,8 @@
 
 ![image](https://github.com/tddwso/Interactive-Data-Analysis-App-for-Taiwan-Stock-Market/blob/main/stock%20logo.PNG)
 
-## 預計完成目標:
-利用sketchify模型完成影像轉換成素描圖片，並放在Stramlit App上。
-
-## 使用環境:
-Python 3.8
-
-## 實測結果
-
+## 功能介紹:
+個股股價查詢並下載。
 
 ![image](https://github.com/tddwso/Convert-any-image-to-a-pencil-sketch-by-Streamlit-App/blob/main/%E7%B4%A0%E6%8F%8F%E8%BD%89%E6%8F%9B%E5%9C%96.PNG)
 
