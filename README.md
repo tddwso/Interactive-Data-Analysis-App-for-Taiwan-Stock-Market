@@ -27,6 +27,6 @@ Streamlit 是一個開源Python函式庫，可以快速製作Data App。
 
 個股移動平均線。
 
-![image](https://github.com/tddwso/Interactive-Data-Analysis-App-for-Taiwan-Stock-Market/blob/main/%E5%A4%9A%E9%A0%85.PNG)
+![image](https://github.com/tddwso/Interactive-Data-Analysis-App-for-Taiwan-Stock-Market/blob/main/%E7%A7%BB%E5%8B%95%E5%B9%B3%E5%9D%87%E7%B7%9A.PNG)
 
 
